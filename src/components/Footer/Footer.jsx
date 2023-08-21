@@ -52,8 +52,8 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href="https://www.instagram.com/asad_saeed_44/"
-                    target="blank"
+                    href="https://www.instagram.com/asadsaeed_44/"
+                    target="_blank"
                   >
                     <i
                       style={{ color: "#634699" }}
@@ -83,11 +83,11 @@ const Footer = () => {
                     fontSize: "25px",
                   }}
                 >
-                  <a href="https://twitter.com/AsadJut55033268">
+                  <a href="https://twitter.com/asadsaeed_44">
                     <i
                       style={{ color: "#634699" }}
                       className="fab fa-twitter"
-                      target="blank"
+                      target="_blank"
                     />
                   </a>
                 </li>
@@ -101,7 +101,7 @@ const Footer = () => {
                     <i
                       style={{ color: "#634699" }}
                       className="fab fa-facebook"
-                      target="blank"
+                      target="_blank"
                     />
                   </a>
                 </li>
@@ -129,13 +129,13 @@ const Footer = () => {
               <a href="#experties">Services</a>
             </li>
             <li>
-              <a href="#portfolio">Works</a>
+              <a href="#portfolio">Portfolio</a>
             </li>
             <li>
-              <a href="#people">Notes</a>
+              <a href="#testimonials">Testimonials</a>
             </li>
             <li>
-              <a href="#work">Experience</a>
+              <a href="#experience">Experience</a>
             </li>
           </ul>
         </div>

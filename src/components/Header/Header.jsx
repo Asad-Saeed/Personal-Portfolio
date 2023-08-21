@@ -42,16 +42,16 @@ const Header = () => {
             <a href="#experties">Services</a>
           </li>
           <li>
-            <a href="#work">Experience</a>
+            <a href="#experience">Experience</a>
           </li>
           <li>
             <a href="#portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#people">Testimonials</a>
+            <a href="#testimonials">Testimonials</a>
           </li>
           <li className={`flexCenter ${css.phone}`}>
-            <a href="tel:+923017631644">
+            <a href="https://wa.me/923017631644" alt="Whatsapp" target="_blank">
               <BiPhoneCall
                 size={"40px"}
                 style={{ boxShadow: "-1px 4px 6px rgba(0, 0, 0, 0.5)" }}

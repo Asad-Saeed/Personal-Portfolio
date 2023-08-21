@@ -68,7 +68,7 @@ const Experties = () => {
                 className="primaryText"
                 style={{ textShadow: "2px 2px 4px rgba(0, 0, 0, 0.5)" }}
               >
-                09+
+                11+
               </span>
               <span className="secondaryText">Happy Clients</span>
             </div>
