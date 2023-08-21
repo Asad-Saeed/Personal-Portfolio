@@ -24,7 +24,10 @@ const Footer = () => {
             amazing together.
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:asadsaeed12225@gmail.com">saying hi👋</a>
+            Start by{" "}
+            <a href="https://wa.me/923017631644" alt="Whatsapp" target="_blank">
+              saying hi👋
+            </a>
           </span>
           <span>
             <div className="primaryText" style={{ display: "flex" }}>
